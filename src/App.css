@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  height: 100%;
+}
+.container{
+	width: 60%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #0c5088;
+  height: 64px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+ul {
+  list-style: none;
+}
+.Card {
+  width: 200px !important;;
+  border: 1px solid gray;
+  box-shadow: 1px 1px 3px #888;
+  min-height: 250px;
+  padding: 5px;
+  margin: 10px;
+  background: #d6cfcf;
+  width: 100%;
+  
+}
+#Cards{
+  display: flex;
+  flex-wrap: wrap;
+}
+h2 {
+  color: blue;
+}
