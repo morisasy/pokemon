@@ -1,6 +1,10 @@
+* {
+  box-sizing: border-box;
+}
 body {
   margin: 0;
   height: 100%;
+  font-size: 1.2em;
 }
 .container{
 	width: 60%;
