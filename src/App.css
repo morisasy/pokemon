@@ -4,6 +4,7 @@
 body {
   margin: 0;
   height: 100%;
+  width: 100%;
   font-size: 1.2em;
 }
 .container{
@@ -23,7 +24,7 @@ body {
 
 .App-header {
   background-color: #0c5088;
-  height: 64px;
+  height: 100px;
   padding: 20px;
   color: white;
 }
